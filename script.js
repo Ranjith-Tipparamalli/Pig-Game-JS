@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 // Function to set up inital variables
 function initialSetUp() {
