@@ -107,7 +107,7 @@ function roll() {
 //-----------------------------------
 
 // Execution starts from here
-var curScoreP1E, curScoreP2E, totalScoreP1E, totalScoreP2E, player1S, player2S, dice, activePlayer = 1, score1BV, score2BV, curScoreBV = 0, diceE, roll, hold;
+var curScoreP1E, curScoreP2E, totalScoreP1E, totalScoreP2E, player1S, player2S, dice, activePlayer = 1, score1BV, score2BV, curScoreBV = 0, diceE, rollE, holdE;
 
 // Function to set up initial values of all the variables
 initialSetUp();
